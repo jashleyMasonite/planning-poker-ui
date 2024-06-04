@@ -77,7 +77,7 @@ devDependencies:
     specifier: ^5.2.2
     version: 5.4.5
   vite:
-    specifier: ^5.2.0
+    specifier: ^5.2.12
     version: 5.2.12
 
 packages:
